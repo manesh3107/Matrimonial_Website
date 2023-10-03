@@ -1,0 +1,18 @@
+.login:hover{
+    color:blue !important;
+}
+.navbar-toggler {
+    margin-left: auto !important;
+  }
+
+  .navbar-logo {
+    max-width: 100%;
+    height: auto;
+    
+  }
+.name{
+  color: black;
+}
+.name:hover{
+  color: black;
+}
